@@ -1,2 +1,2 @@
 # leetcode-solutions
-to keep track of solutions for leetcode problems.
+To keep track of my solutions for leetcode problems for a quick reference.
